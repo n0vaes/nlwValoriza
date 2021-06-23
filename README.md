@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#DC143C; font-weight:bold;">
-  <a href="#"> Ezchat </a>
+  <a href="#"> NLW Valoriza </a>
 </h1>
 
 <p align="center">
