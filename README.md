@@ -26,6 +26,8 @@ The following tools were used in the construction of the project:
 - **[Sqlite3](https://www.npmjs.com/package/sqlite3)**
 - **[Metadata Reflection API](https://www.npmjs.com/package/reflect-metadata)**
 - **[uuid](https://www.npmjs.com/package/uuid)**
+- **[JSON Web Tokens](https://jwt.io)**
+- **[bcryptjs](https://www.npmjs.com/package/bcryptjs)**
 
 ---
 
