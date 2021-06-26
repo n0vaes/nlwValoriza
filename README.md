@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="#ℹ%EF%B8%8F-about">About</a> •
- <a href="#-stuff-learned">Stuff Learned</a> •
+ <a href="#-concepts-learned">Concepts Learned</a> •
  <a href="#-tech-stack">Tech Stack</a> •
  <a href="#-how-it-works">How it works</a> •
  <a href="#-author">Author</a> •
@@ -12,11 +12,11 @@
 
 ## ℹ️ About
 
-Application that lets the user tag other coworkers with compliments. created at [RocketSeat](https://rocketseat.com.br/) Next Level Week 6.0, using stack TypeScript with Node.js.
+Application that allows the user tag other coworkers with compliments. created at [RocketSeat](https://rocketseat.com.br/) Next Level Week 6.0, using stack TypeScript with Node.js.
 
 ---
 
-## :white_check_mark: Stuff Learned
+## :white_check_mark: Concepts Learned
 
 - How to create a token system, and how it is passed around the services;
 - How to create validations while creating services;
