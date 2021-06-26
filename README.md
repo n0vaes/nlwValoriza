@@ -12,7 +12,7 @@
 
 ## ℹ️ About
 
-Application that allows the user tag other coworkers with compliments. created at [RocketSeat](https://rocketseat.com.br/) Next Level Week 6.0, using stack TypeScript with Node.js.
+Application that allows the user to tag other coworkers with compliments. created at [RocketSeat](https://rocketseat.com.br/) Next Level Week 6.0, using stack TypeScript with Node.js.
 
 ---
 
