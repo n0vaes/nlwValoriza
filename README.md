@@ -4,15 +4,26 @@
 
 <p align="center">
  <a href="#ℹ%EF%B8%8F-about">About</a> •
+ <a href="#-stuff-learned">Stuff Learned</a> •
  <a href="#-tech-stack">Tech Stack</a> •
  <a href="#-how-it-works">How it works</a> •
- <a href="#%EF%B8%8F-endpoints">Endpoints</a> •
- <a href="#-authors">Authors</a> •
+ <a href="#-author">Author</a> •
 </p>
 
 ## ℹ️ About
 
 Application that lets the user tag other coworkers with compliments. created at [RocketSeat](https://rocketseat.com.br/) Next Level Week 6.0, using stack TypeScript with Node.js.
+
+---
+
+## :white_check_mark: Stuff Learned
+
+- How to create a token system, and how it is passed around the services;
+- How to create validations while creating services;
+- How to protect password by encrypting it;
+- How the ecrypting system works;
+- How to show extra/hide important information while listing data;
+- Learned the middleware concept, and how it works;
 
 ---
 
@@ -28,6 +39,7 @@ The following tools were used in the construction of the project:
 - **[uuid](https://www.npmjs.com/package/uuid)**
 - **[JSON Web Tokens](https://jwt.io)**
 - **[bcryptjs](https://www.npmjs.com/package/bcryptjs)**
+- **[class transformer](https://www.npmjs.com/package/class-transformer)**
 
 ---
 
@@ -51,7 +63,7 @@ $ cd nlwvaloriza
 
 ```bash
 # go to the api folder
-$ cd api
+$ cd nlwvaloriza
 
 # install the dependencies
 $ npm install
@@ -68,17 +80,11 @@ $ yarn dev
 
 ---
 
-## 🖥️ Endpoints
-
-### 💠 TBD 👉 TBD
-
----
-
-## 👩🏽‍💻 Authors
+## 👩🏽‍💻 Author
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/n0vaes"><img src="" width="100px;" alt=""/><br /><sub><b>Alan Novaes</b></sub></a><br /><a href="https://github.com/n0vaes/nlwValoriza" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/n0vaes"><img src="https://avatars.githubusercontent.com/u/66540468?v=4" width="100px;" alt=""/><br /><sub><b>Alan Novaes</b></sub></a><br /><a href="https://github.com/n0vaes/nlwValoriza" title="Code">💻</a></td>
   <tr>
 </table>
 
