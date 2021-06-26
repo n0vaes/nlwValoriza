@@ -21,7 +21,7 @@ Application that allows the user to tag other coworkers with compliments. create
 - How to create a token system, and how it is passed around the services;
 - How to create validations while creating services;
 - How to protect password by encrypting it;
-- How the ecrypting system works;
+- How the encrypting system works;
 - How to show extra/hide important information while listing data;
 - Learned the middleware concept, and how it works;
 
